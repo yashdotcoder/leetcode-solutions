@@ -8,6 +8,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
+| [0039-combination-sum](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0040-combination-sum-ii/) | Medium |
 | [0139-word-break](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
@@ -94,5 +95,6 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0040-combination-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
