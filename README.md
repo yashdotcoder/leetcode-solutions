@@ -17,6 +17,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | [0494-target-sum](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/1552-magnetic-force-between-two-balls/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3731-find-missing-elements](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -67,6 +68,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | ------- | ------- |
 | [0139-word-break](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3731-find-missing-elements](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -107,4 +109,8 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | [0040-combination-sum-ii](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0494-target-sum](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 <!---LeetCode Topics End-->
