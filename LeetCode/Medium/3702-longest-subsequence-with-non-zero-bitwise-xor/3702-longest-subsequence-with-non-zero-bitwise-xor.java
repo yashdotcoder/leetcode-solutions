@@ -1,5 +1,27 @@
 class Solution {
     public int longestSubsequence(int[] nums) {
+        int totalXor = 0;
+        boolean allZero = true;
+        int n = nums.length;
+
+
+        for (int num : nums) {
+            totalXor ^= num;
+
+            if (num > 0) {
+                allZero = false;
+            }
+        }
+
+        if (totalXor != 0) {
+            return n;
+        }
+
+        return allZero ? 0 : n - 1;
+
+
+
+        /*
         int res = 0;
 
         for (int bit = 0; bit < 32; ++bit) {
@@ -27,5 +49,6 @@ class Solution {
         }
 
         return res;
+        */
     }
 }
