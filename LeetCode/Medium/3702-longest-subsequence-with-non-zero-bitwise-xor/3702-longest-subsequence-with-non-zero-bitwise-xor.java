@@ -1,54 +1,90 @@
 class Solution {
+
     public int longestSubsequence(int[] nums) {
-        int totalXor = 0;
-        boolean allZero = true;
+
         int n = nums.length;
 
+        // XOR of all elements in the array.
+        //
+        // Important XOR properties:
+        // x ^ x = 0
+        // x ^ 0 = x
+        //
+        // Therefore, if the XOR of the complete array is non-zero,
+        // the complete array itself is a valid subsequence.
+        int totalXor = 0;
 
+        // Used to check whether every element is 0.
+        boolean allZero = true;
+
+
+        // Calculate XOR of all elements.
         for (int num : nums) {
+
             totalXor ^= num;
 
-            if (num > 0) {
+            // If we find even one non-zero element,
+            // then the array is not an all-zero array.
+            if (num != 0) {
                 allZero = false;
             }
         }
 
+
+        /*
+         * CASE 1:
+         * XOR of the complete array is non-zero.
+         *
+         * Since the complete array is itself a subsequence,
+         * we can take all n elements.
+         */
         if (totalXor != 0) {
             return n;
         }
 
-        return allZero ? 0 : n - 1;
 
+        /*
+         * CASE 2:
+         * XOR of the complete array is zero.
+         *
+         * If the array contains at least one non-zero element,
+         * removing ANY one non-zero element will make the XOR
+         * of the remaining elements non-zero.
+         *
+         * Why?
+         *
+         * Suppose:
+         *
+         *     a ^ b ^ c = 0
+         *
+         * Then:
+         *
+         *     a ^ b = c
+         *
+         * If we remove c:
+         *
+         *     a ^ b = c != 0
+         *
+         * Therefore, we can always construct a valid
+         * subsequence of length n - 1.
+         */
+        if (!allZero) {
+            return n - 1;
+        }
 
 
         /*
-        int res = 0;
-
-        for (int bit = 0; bit < 32; ++bit) {
-            int bit1 = 0, bit0 = 0;
-            int count = 0;
-        
-            for (int i = 0; i < nums.length; ++i) {
-                boolean isSet = (nums[i] & (1 << bit)) != 0;
-                if (isSet) {
-                    bit1++;
-                } else {
-                    bit0++;
-                }
-            }
-
-            if (bit1 != 0) {
-                if (bit1 % 2 == 0) {
-                    count = bit1 - 1 + bit0;
-                } else {
-                    count = bit1 + bit0;
-                }
-            }
-
-            res = Math.max(res, count);
-        }
-
-        return res;
-        */
+         * CASE 3:
+         * Every element is zero.
+         *
+         * XOR of any non-empty subsequence will still be zero:
+         *
+         *     0 ^ 0 ^ 0 = 0
+         *
+         * Therefore, there is no valid non-empty subsequence.
+         *
+         * Answer = 0.
+         */
+        return 0;
     }
 }
