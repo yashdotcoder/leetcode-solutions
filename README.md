@@ -17,6 +17,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | [0494-target-sum](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/1552-magnetic-force-between-two-balls/) | Medium |
+| [2029-stone-game-ix](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -56,6 +57,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0060-permutation-sequence](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Hard/0060-permutation-sequence/) | Hard |
+| [2029-stone-game-ix](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +83,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [2029-stone-game-ix](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,4 +134,24 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 <!---LeetCode Topics End-->
