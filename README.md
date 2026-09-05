@@ -24,6 +24,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/3903-smallest-stable-index-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,4 +159,8 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3903-smallest-stable-index-i](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/3903-smallest-stable-index-i/) | Easy |
 <!---LeetCode Topics End-->
