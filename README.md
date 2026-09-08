@@ -62,6 +62,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | [0002-add-two-numbers](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0060-permutation-sequence](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Hard/0060-permutation-sequence/) | Hard |
 | [2029-stone-game-ix](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
+| [3870-count-commas-in-range](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/3870-count-commas-in-range/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
