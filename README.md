@@ -167,4 +167,16 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | ------- | ------- |
 | [3903-smallest-stable-index-i](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/3904-smallest-stable-index-ii/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 <!---LeetCode Topics End-->
