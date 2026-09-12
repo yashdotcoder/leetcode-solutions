@@ -21,6 +21,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | [2029-stone-game-ix](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
@@ -41,6 +42,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | [0347-top-k-frequent-elements](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/1552-magnetic-force-between-two-balls/) | Medium |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Hard/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3731-find-missing-elements](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -102,6 +104,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/1552-magnetic-force-between-two-balls/) | Medium |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Hard/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +117,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | [0139-word-break](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0494-target-sum](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Hard/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
