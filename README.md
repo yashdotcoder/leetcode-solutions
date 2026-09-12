@@ -17,6 +17,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | [0494-target-sum](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/1552-magnetic-force-between-two-balls/) | Medium |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Hard/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [2029-stone-game-ix](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -39,6 +40,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | [0215-kth-largest-element-in-an-array](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/1552-magnetic-force-between-two-balls/) | Medium |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Hard/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [3731-find-missing-elements](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -99,6 +101,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | [0033-search-in-rotated-sorted-array](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/1552-magnetic-force-between-two-balls/) | Medium |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Hard/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +113,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | ------- | ------- |
 | [0139-word-break](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0494-target-sum](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Hard/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
