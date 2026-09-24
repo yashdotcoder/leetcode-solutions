@@ -67,6 +67,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0060-permutation-sequence](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Hard/0060-permutation-sequence/) | Hard |
+| [0067-add-binary](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [2029-stone-game-ix](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3870-count-commas-in-range](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/3870-count-commas-in-range/) | Easy |
@@ -111,6 +112,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0139-word-break](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -152,6 +154,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -194,4 +197,8 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
