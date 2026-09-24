@@ -1,32 +1,22 @@
 class Solution {
-    public boolean isIsomorphic(String s, String t) {
-        if (s.length() != t.length()) {
-            return false;
-        }
-
-        Map<Character, Character> mapping = new HashMap<>();
-        Map<Character, Character> reverseMapping = new HashMap<>();
+    private String transformString(String s) {
+        Map<Character, Integer> indexMapping = new HashMap<>();
+        StringBuilder builder = new StringBuilder();
 
         for (int i = 0; i < s.length(); ++i) {
-            char charS = s.charAt(i);
-            char charT = t.charAt(i);
+            char c1 = s.charAt(i);
 
-            if (mapping.containsKey(charS)) {
-                if (mapping.get(charS) != charT) {
-                    return false;
-                }
+            if (!indexMapping.containsKey(c1)) {
+                indexMapping.put(c1, i);
             }
 
-            if (reverseMapping.containsKey(charT)) {
-                if (reverseMapping.get(charT) != charS) {
-                    return false;
-                }
-            }
-
-            mapping.put(charS, charT);
-            reverseMapping.put(charT, charS);
+            builder.append(Integer.toString(indexMapping.get(c1)));
+            builder.append(" ");
         }
+        return builder.toString();
+    }
 
-        return true;
+    public boolean isIsomorphic(String s, String t) {
+        return transformString(s).equals(transformString(t));
     }
 }
