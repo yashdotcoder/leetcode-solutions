@@ -19,6 +19,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/1552-magnetic-force-between-two-balls/) | Medium |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Hard/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2029-stone-game-ix](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -88,6 +89,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | [0139-word-break](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0205-isomorphic-strings](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -116,6 +118,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | [0067-add-binary](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0139-word-break](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0205-isomorphic-strings](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Dynamic Programming
