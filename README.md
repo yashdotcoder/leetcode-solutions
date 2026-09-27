@@ -8,6 +8,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
@@ -111,6 +112,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/1552-magnetic-force-between-two-balls/) | Medium |
