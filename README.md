@@ -194,14 +194,17 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/0110-balanced-binary-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/0110-balanced-binary-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/0110-balanced-binary-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
