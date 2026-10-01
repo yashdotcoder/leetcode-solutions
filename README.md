@@ -91,6 +91,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0139-word-break](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0205-isomorphic-strings](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -124,6 +125,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0067-add-binary](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0139-word-break](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
@@ -158,6 +160,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Segment Tree
