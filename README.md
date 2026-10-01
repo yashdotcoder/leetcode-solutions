@@ -123,6 +123,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0067-add-binary](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0139-word-break](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0205-isomorphic-strings](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
@@ -222,11 +223,13 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Two Pointers
