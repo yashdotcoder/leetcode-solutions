@@ -127,6 +127,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0067-add-binary](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0139-word-break](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0205-isomorphic-strings](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
@@ -138,6 +139,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0139-word-break](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0494-target-sum](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Hard/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
@@ -153,6 +155,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
@@ -234,6 +237,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Two Pointers
