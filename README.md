@@ -13,6 +13,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | [0039-combination-sum](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
@@ -94,6 +95,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0205-isomorphic-strings](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -252,4 +254,8 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | [0015-3sum](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
