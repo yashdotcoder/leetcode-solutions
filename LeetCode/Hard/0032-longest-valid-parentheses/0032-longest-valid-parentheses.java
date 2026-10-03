@@ -1,46 +1,108 @@
 class Solution {
 
     public int longestValidParentheses(String s) {
-        int left = 0, right = 0, n = s.length();
+        int n = s.length();
 
-        int ans = 0;
+        // Count of '(' and ')' in the current window.
+        int left = 0;
+        int right = 0;
 
+        int maxLength = 0;
+
+        /*
+         * PASS 1: Scan from LEFT -> RIGHT
+         *
+         * We look for substrings where:
+         *
+         *     left == right
+         *
+         * because equal numbers of '(' and ')' indicate that
+         * the current window has the correct number of brackets.
+         */
         for (int i = 0; i < n; ++i) {
+
             if (s.charAt(i) == '(') {
                 left++;
             } else {
                 right++;
             }
 
+            // Equal number of opening and closing brackets.
+            // Since we haven't encountered an invalid imbalance,
+            // this window is a valid parentheses substring.
             if (left == right) {
-                ans = Math.max(ans, left + right);
+                maxLength = Math.max(maxLength, left + right);
             }
 
+            /*
+             * If right > left, we have more ')' than '('.
+             *
+             * Example:
+             *     ())
+             *
+             * Such a window can NEVER become valid by extending it
+             * to the right, because the unmatched ')' cannot be fixed.
+             *
+             * Therefore, discard this window and start fresh.
+             */
             if (right > left) {
                 left = right = 0;
             }
         }
 
+        // Reset counters before the second pass.
         left = right = 0;
 
+        /*
+         * PASS 2: Scan from RIGHT -> LEFT
+         *
+         * Why do we need a second pass?
+         *
+         * Consider:
+         *
+         *     (()
+         *
+         * There is a valid "()" inside it, but during the
+         * left-to-right scan we finish with:
+         *
+         *     left = 2
+         *     right = 1
+         *
+         * Therefore, left == right never occurs for the complete
+         * window, and we can miss the valid substring.
+         *
+         * The reverse scan handles this situation.
+         */
         for (int i = n - 1; i >= 0; --i) {
+
             if (s.charAt(i) == '(') {
                 left++;
             } else {
                 right++;
             }
 
+            // Equal number of '(' and ')' means we found a
+            // balanced parentheses window.
             if (left == right) {
-                ans = Math.max(ans, left + right);
+                maxLength = Math.max(maxLength, left + right);
             }
 
-            if (right < left) {
+            /*
+             * In the reverse direction, the invalid situation is
+             * the opposite.
+             *
+             * If left > right, there are more '(' than ')' in the
+             * current window.
+             *
+             * Those unmatched '(' cannot be fixed by extending
+             * further to the LEFT, so discard this window.
+             */
+            if (left > right) {
                 left = right = 0;
             }
         }
 
-
-        return ans;
+        return maxLength;
     }
 
     public int longestValidParenthesesDP(String s) {
