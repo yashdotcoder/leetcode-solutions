@@ -1,27 +1,17 @@
 class Solution {
-    public int scoreOfParentheses(String s) {
-        int formed = 0;
-        int res = 0;
-        int factor = 1;
 
-        for (int i = 0; i < s.length(); ) {
-            char c = s.charAt(i);
-
-            if (c == '(') {
-                formed++;
-                factor *= 2;
-                i++;
+    public int scoreOfParentheses(String S) {
+        int ans = 0, bal = 0;
+        for (int i = 0; i < S.length(); ++i) {
+            if (S.charAt(i) == '(') {
+                bal++;
             } else {
-                factor /= 2;
-                res += factor;
-                i++;
-                while (i < s.length() && s.charAt(i) == ')') {
-                    factor /= 2;
-                    i++;
-                }
+                bal--;
+                if (S.charAt(i-1) == '(')
+                    ans += 1 << bal;
             }
         }
 
-        return res;
+        return ans;
     }
 }
