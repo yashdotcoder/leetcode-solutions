@@ -137,6 +137,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | [0139-word-break](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0205-isomorphic-strings](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -242,6 +243,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | [0020-valid-parentheses](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Bracket Sequences
@@ -251,6 +253,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | [0022-generate-parentheses](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Two Pointers
