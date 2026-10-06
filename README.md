@@ -75,6 +75,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [0060-permutation-sequence](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Hard/0060-permutation-sequence/) | Hard |
 | [0067-add-binary](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
