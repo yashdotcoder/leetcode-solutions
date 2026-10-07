@@ -138,6 +138,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | [0067-add-binary](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0139-word-break](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0205-isomorphic-strings](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -171,6 +172,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | [0039-combination-sum](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0494-target-sum](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -277,4 +279,8 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/1757-recyclable-and-low-fat-products/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Hard/0301-remove-invalid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
