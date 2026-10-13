@@ -1,36 +1,19 @@
 class Solution {
+
     public long maxAlternatingSum(int[] nums) {
-        long ans = 0;
         int n = nums.length;
-
-        PriorityQueue<Integer> minHeap = new PriorityQueue<>();
-        PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Collections.reverseOrder());
-        for (int num : nums) {
-            if (num < 0) num = -num;
-
-            minHeap.add(num);
-            maxHeap.add(num);
+        for (int i = 0; i < n; i++) {
+            nums[i] *= nums[i];
         }
+        Arrays.sort(nums);
 
-        int count = 0;
-        boolean even = true;
-
-        while (count < n) {
-            long min = minHeap.peek();
-            long max = maxHeap.peek();
-
-            if (even) {
-                ans +=  max * max;
-                maxHeap.poll();
-            } else {
-                ans -=  min * min;
-                minHeap.poll();
-            }
-
-            even = !even;
-            count++;
-        } 
-
+        long ans = 0;
+        for (int i = 0; i < n / 2; i++) {
+            ans -= nums[i];
+        }
+        for (int i = n / 2; i < n; i++) {
+            ans += nums[i];
+        }
         return ans;
     }
 }
