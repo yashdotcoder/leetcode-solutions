@@ -29,6 +29,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | [2029-stone-game-ix](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2778-sum-of-squares-of-special-elements](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -107,6 +108,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | [0347-top-k-frequent-elements](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -190,6 +192,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,4 +303,8 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
