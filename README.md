@@ -84,6 +84,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | [0067-add-binary](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [2029-stone-game-ix](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3870-count-commas-in-range](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Easy/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/3871-count-commas-in-range-ii/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -205,6 +206,7 @@ A collection of my LeetCode submissions, focusing on clean code and optimized so
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2029-stone-game-ix](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yashdotcoder/leetcode-solutions/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
